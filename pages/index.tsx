@@ -1,10 +1,15 @@
 // base
 import * as React from "react";
 
+// components
+import Header from "@/components/header";
+
 export default function Home() {
     return (
-        <div className="flex w-screen h-screen items-center justify-center">
-            <label>your app is ready !!!</label>
+        <div className="flex h-screen flex-col items-center">
+            <div className="container h-full">
+                <Header />
+            </div>
         </div>
     );
 }

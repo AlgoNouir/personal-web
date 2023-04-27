@@ -6,12 +6,12 @@ module.exports = {
   ],
   theme: {
     colors: {
-        primary: "#EDEDED",
-        secondary: "#3C414A",
-        background: "#EDEDED",
-        card: "#FFF",
-        text: "#3C414A",
-        border: "#3C414A99",
+        primary: "#F2CCB8",
+        secondary: "#69514c",
+        background: "#44496b",
+        card: "#707499",
+        text: "#FFF",
+        border: "#555a7d",
         notification: "#AEBC4A",
         error: "#C4716C",
         success: "#1DC322",
